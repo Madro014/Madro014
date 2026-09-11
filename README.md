@@ -47,9 +47,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madro014/Madro014/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman&v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madro014/Madro014/pacman-output/bomberman-contribution-graph.svg?game=bomberman&v=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madro014/Madro014/pacman-output/bomberman-contribution-graph.svg?game=bomberman&v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madro014/Madro014/pacman-output/galaga-contribution-graph-dark.svg?game=galaga&v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madro014/Madro014/pacman-output/galaga-contribution-graph.svg?game=galaga&v=2">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madro014/Madro014/pacman-output/galaga-contribution-graph.svg?game=galaga&v=2">
 </picture>
 
 ###
